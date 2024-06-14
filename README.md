@@ -1,7 +1,13 @@
+<p align="center">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Qcraft-UEx/Qcraft/blob/main/docs/_images/qcraft_logo.png?raw=true" width="60%">
+     <img src="https://github.com/Qcraft-UEx/Qcraft/blob/main/docs/_images/qcraft_logo.png?raw=true" width="60%" alt="Qcraft Logo">
+   </picture>
+  </a>
+</p>
 
-<!-- toc is generated with GitHub Actions do not remove toc markers -->
-# AsyncAPIQuantum template
-<!-- toc -->
+# QCRAFT AsyncAPIQuantum
+
 
 - [Overview](#overview)
 - [Technical requirements](#technical-requirements)
