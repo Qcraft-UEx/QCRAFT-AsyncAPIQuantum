@@ -110,3 +110,6 @@ Then, generate the code with
 ```bash
 $ ag ~/AsyncApiDocument.yaml ./AsyncAPIQuantum -o output -p server=production
 ```
+
+## License
+QCRAFT AsyncAPIQuantum is licensed under the [MIT License](https://github.com/Qcraft-UEx/QCRAFT/blob/main/LICENSE)
